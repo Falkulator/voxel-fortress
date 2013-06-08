@@ -1,0 +1,15 @@
+{
+  "name": "voxel-fortress",
+  "version": "0.0.0",
+  "description": "RTS HTML5 voxel",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": "",
+  "keywords": [
+    "voxel"
+  ],
+  "author": "Michael Falkowski",
+  "license": "BSD"
+}
